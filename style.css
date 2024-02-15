@@ -1,22 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Golos+Text&family=Poppins:wght@300;400;500;700&display=swap');
+
 body{
-    background: linear-gradient(yellow,red);
+  background: linear-gradient(#ff000086,#478347b0,#9b9bd79c,white);
 }
-h1{
-    /* Primeiro passo: definir um degradê como fundo */
-  background-image: linear-gradient(to bottom, rgb(16, 23, 152), rgb(180, 162, 70), rgb(224, 64, 192));
-  
-  /* Segundo passo: apagar do fundo tudo que não estiver imediatamente atrás de texto */
-  background-clip: text;
-  -webkit-background-clip: text; /* Alguns navegadores precisam do prefixo */
 
-  /* Terceiro passo: apagar o texto, deixando apenas o fundo atrás dele */
-  -webkit-text-fill-color: transparent;
-
-  /* Cor que contraste com o degradê, caso o navegador não suporte `background-clip: text` */
-  color: black;
-}
-.titulo-meta{
-
-  
-}
-    
