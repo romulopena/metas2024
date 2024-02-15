@@ -2,8 +2,8 @@ body{
     background: linear-gradient(yellow,red);
 }
 .titulo-meta{
-      /* Primeiro passo: definir um degradê como fundo */
-  background-image: linear-gradient(to bottom, rebeccapurple, steelblue, turquoise);
+/* Primeiro passo: definir um degradê como fundo */
+  background-image: linear-gradient(to bottom, rgb(16, 23, 152), rgb(180, 162, 70), rgb(224, 64, 192));
   
   /* Segundo passo: apagar do fundo tudo que não estiver imediatamente atrás de texto */
   background-clip: text;
@@ -17,4 +17,3 @@ body{
   
 }
     
-}
