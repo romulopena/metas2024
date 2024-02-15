@@ -1,3 +1,6 @@
+body{
+    background: radial-gradient(yellow,red);
+}
 titulo-meta{
     background-color: aqua;
     font-weight: 400;
