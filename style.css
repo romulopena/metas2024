@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Golos+Text&family=Poppins:wght@300;400;500;700&display=swap');
 
 body{
-  background: linear-gradient(#ff000086,#478347b0,#9b9bd79c,white);
+  background: radial-gradient(#ff000086,#478347b0,#9b9bd79c,white);
   font-family: Bebas Neue;
 }
 
