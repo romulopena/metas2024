@@ -4,3 +4,10 @@ body{
   background: linear-gradient(#ff000086,#478347b0,#9b9bd79c,white);
 }
 
+h1{
+  color: #00ffff;
+}
+
+h2{
+  color: #7fff00;
+}
