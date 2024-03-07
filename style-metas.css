@@ -2,7 +2,7 @@
 
 :root {
     --cor-de-fundo: #1E1E1E;
-    --verde: #6FFF57;
+    --amarelo: #d8ff57;
     --branco: #FFFFFF;
     --botao-ativo: #3A375E;
     --botao-inativo: #3a375e80;
@@ -29,7 +29,7 @@
     
     }
     .titulo-principal span {
-    color: var(--verde);
+    color: var(--amarelo);
     }
     .botao {
     font-family: "Crakra Petch", sans-serif;
