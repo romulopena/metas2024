@@ -35,7 +35,7 @@ body {
     color: var(--verde);
 }
 
-.botao {
+.botao{
     font-family: "Crakra Petch", sans-serif;
     background-color: var(--botao-inativo);
     color: var(--branco);
@@ -51,11 +51,11 @@ body {
     border-top: none;
 }
 
-.botoes {
+.botoes{
     display: block;
 }
 
-.botao.ativo {
+.botao.ativo{
     background-color: var(--botao-ativo);
     border-bottom: 4px solid var(--verde);
 }
