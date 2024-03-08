@@ -1,3 +1,4 @@
+
 :root {
     --cor-de-fundo: #1E1E1E;
     --verde: #6FFF57;
@@ -10,7 +11,7 @@
 body {
     background-color: var(--cor-de-fundo);
     color: var(--branco);
-    font-family: 'Chakra Petch', sans-serif;
+    
 }
 
 .conteudo-principal {
@@ -31,7 +32,7 @@ body {
 }
 
 .titulo-principal span {
-    color: var(--roxo);
+    color: var(--verde);
 }
 
 .botao {
@@ -54,8 +55,6 @@ body {
     display: block;
 }
 
-/*Aula 03*/
-
 .botao.ativo {
     background-color: var(--botao-ativo);
     border-bottom: 4px solid var(--verde);
@@ -66,8 +65,6 @@ body {
     padding: 40px;
     border-radius: 0 0 40px 40px;
 }
-
-
 
 @media screen and (min-width: 768px) {
     .botoes {
