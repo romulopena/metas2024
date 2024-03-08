@@ -1,6 +1,6 @@
 :root {
     --cor-de-fundo: #19b42b;
-    --roxo: #d557ff;
+    --verde: #57ff81;
     --branco: #FFFFFF;
     --botao-ativo: #3A375E;
     --botao-inativo: #d3d2d9ea;
@@ -58,7 +58,7 @@ body {
 
 .botao.ativo {
     background-color: var(--botao-ativo);
-    border-bottom: 4px solid var(--roxo);
+    border-bottom: 4px solid var(--verde);
 }
 
 .abas-textos{
