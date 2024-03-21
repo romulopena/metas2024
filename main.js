@@ -12,7 +12,7 @@ for(let i=0; i <botoes.length; i++){
         textos[i].classList.add("ativo");
     }
 }
-contadores[0].textContent = "Contagem Regressiva";
+contadores[0].textContent = tempoObjetivo1;
 const tempoObjetivo1 = new Date("2024-12-21");
 
 
